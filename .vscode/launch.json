@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "http:///home/hp/VisualStudioCode_WorkShop/Times.js",
+            "request": "launch",
+            "url": "http:///home/hp/VisualStudioCode_WorkShop/Times.js"
+        }
+    ]
+}
